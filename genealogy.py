@@ -1,8 +1,7 @@
 #Projeto criar Árvore Genealógica
 #mistura de lógica, estrutura de dados,
-
 #Passo 01- Criar modelo de dados(classe Pessoa)
-
+#Em construção
 #Criando classes
 
 class Pessoa:
