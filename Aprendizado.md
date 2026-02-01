@@ -38,4 +38,4 @@ Durante o processo, identifiquei e corrigi erros comuns:
 - [ ] Exportar a árvore como imagem PNG.
 
 
-![Genealogia](./árvore.png)
+![Genealogia](./arvore.png)
