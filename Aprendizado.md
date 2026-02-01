@@ -36,3 +36,6 @@ Durante o processo, identifiquei e corrigi erros comuns:
 - [ ] Implementar um sistema de busca por nome.
 - [ ] Adicionar interatividade (clicar na caixa para ver a profissão).
 - [ ] Exportar a árvore como imagem PNG.
+
+
+![Genealogia](./árvore.png)
